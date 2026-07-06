@@ -1,0 +1,3 @@
+Coloque aqui os arquivos de logo oficiais (logo_reuse_sampa.png, app_icon.png
+etc.) antes de rodar `flutter pub run flutter_native_splash:create` ou
+`flutter pub run flutter_launcher_icons`. Veja o README na raiz do projeto.
